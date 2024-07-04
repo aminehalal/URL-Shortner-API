@@ -50,7 +50,7 @@ pip install -r requirements.txt
 }
 ```
 
-#### Get item
+#### Get url
 
 ```http
   GET /api/get_url/${code}
